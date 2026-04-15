@@ -1,0 +1,14 @@
+com\placementtracker\servlet\AddSkillServlet.class
+com\placementtracker\servlet\DeleteTestServlet.class
+com\placementtracker\resources\JakartaEE10Resource.class
+com\placementtracker\servlet\AddTestServlet.class
+com\placementtracker\servlet\DeleteSkillServlet.class
+com\placementtracker\servlet\UpdateTestServlet.class
+com\placementtracker\servlet\AuthServlet.class
+com\placementtracker\servlet\DeleteTaskServlet.class
+com\placementtracker\servlet\UpdateTaskServlet.class
+com\placementtracker\servlet\LogoutServlet.class
+com\placementtracker\db\DBConnection.class
+com\placementtracker\servlet\AddTaskServlet.class
+com\placementtracker\JakartaRestConfiguration.class
+com\placementtracker\servlet\UpdateSkillServlet.class
