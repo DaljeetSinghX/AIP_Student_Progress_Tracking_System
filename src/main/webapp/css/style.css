@@ -179,3 +179,35 @@ h1, h2, h3, h4, .display-4 {
 .x-small { font-size: 0.75rem; }
 .shadow-2xl { box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15); }
 .shadow-xl { box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.15); }
+
+/* Cursor Effects */
+.cursor-ripple {
+    position: fixed;
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+    animation: ripple-anim 0.6s linear forwards;
+    background: rgba(195, 143, 255, 0.2);
+    border: 2px solid rgba(195, 143, 255, 0.8);
+}
+        
+@keyframes ripple-anim {
+    0% { width: 0px; height: 0px; opacity: 1; }
+    100% { width: 120px; height: 120px; opacity: 0; }
+}
+        
+.cursor-trail {
+    position: fixed;
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    z-index: 9998;
+    background: rgba(195, 143, 255, 0.6);
+    animation: trail-anim 0.8s ease-out forwards;
+}
+
+@keyframes trail-anim {
+    0% { width: 20px; height: 20px; opacity: 0.8; }
+    100% { width: 0px; height: 0px; opacity: 0; }
+}
