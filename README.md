@@ -78,8 +78,5 @@ StudentProgressTrackingSystem/
 4. Ensure your server (Tomcat/GlassFish) is configured in NetBeans.
 5. Right-click the project and select **Run**. This will build the `.war` package and deploy it seamlessly on your integrated web server, opening the login portal on your browser.
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check the issues page and open a Pull Request.
-
 ## 📝 License
 This project is open-source and available for educational/academic purposes.
