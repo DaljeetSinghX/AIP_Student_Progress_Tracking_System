@@ -1,5 +1,5 @@
 # Student Progress Tracking System
-
+ 
 ## Overview
 **Student Progress Tracking System** is a robust and responsive web application designed to help students track their academic journey, monitor their mastered skills, and manage ongoing tasks and test scores. Built as an AIP (Advanced/Application Implementation Project) in Apache NetBeans, this project leverages a monolithic Java EE architecture with Servlets and JSP.
 
