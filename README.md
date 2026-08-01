@@ -15,7 +15,7 @@
 
 ## 🛠️ Technology Stack
 
-*   **Frontend:** HTML5, Custom CSS, JavaScript, JSP (JavaServer Pages), Bootstrap 5, Chart.js
+*   **Frontend:** HTML5, Custom CSS, JavaScript, JSP, Bootstrap 5, Chart.js
 *   **Backend:** Java 11, Servlets (Jakarta EE 10 API)
 *   **Build Tool:** Maven
 *   **Database:** MySQL (via JDBC)
