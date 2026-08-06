@@ -13,7 +13,7 @@
 *   **Test Score Tracking**: Log and monitor test scores to automatically update the performance average.
 *   **Responsive UI**: Fully responsive, mobile-friendly interface built with Bootstrap 5 and custom CSS animations.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 *   **Frontend:** HTML5, Custom CSS, JavaScript, JSP, Bootstrap 5, Chart.js
 *   **Backend:** Java 11, Servlets (Jakarta EE 10 API)
