@@ -3,7 +3,7 @@
 ## Overview
 **Student Progress Tracking System** is a robust and responsive web application designed to help students track their academic journey, monitor their mastered skills, and manage ongoing tasks and test scores. Built as an AIP (Advanced/Application Implementation Project) in Apache NetBeans, this project leverages a monolithic Java EE architecture with Servlets and JSP.
 
-## 🚀 Key Features
+## Key Features
 
 *   **User Authentication**: Secure user login and registration system.
 *   **Interactive Dashboard**: A clean, modern dashboard presenting "Bento Stats" to quickly summarize Mastered Skills, Grade Averages, and Completed Tasks.
