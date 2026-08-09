@@ -21,7 +21,7 @@
 *   **Database:** MySQL (via JDBC)
 *   **IDE:** Apache NetBeans
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 StudentProgressTrackingSystem/
